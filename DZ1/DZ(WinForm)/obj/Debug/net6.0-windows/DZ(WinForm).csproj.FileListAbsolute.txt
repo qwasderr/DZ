@@ -1,0 +1,17 @@
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\bin\Debug\net6.0-windows\DZ(WinForm).exe
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\bin\Debug\net6.0-windows\DZ(WinForm).deps.json
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\bin\Debug\net6.0-windows\DZ(WinForm).runtimeconfig.json
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\bin\Debug\net6.0-windows\DZ(WinForm).dll
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\bin\Debug\net6.0-windows\DZ(WinForm).pdb
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\DZ(WinForm).csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\DZ_WinForm_.Form1.resources
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\DZ(WinForm).csproj.GenerateResource.cache
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\DZ(WinForm).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\DZ(WinForm).AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\DZ(WinForm).AssemblyInfo.cs
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\DZ(WinForm).csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\DZ(WinForm).dll
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\refint\DZ(WinForm).dll
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\DZ(WinForm).pdb
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\DZ(WinForm).genruntimeconfig.cache
+C:\Users\Max\source\repos\DZ1\DZ(WinForm)\obj\Debug\net6.0-windows\ref\DZ(WinForm).dll
