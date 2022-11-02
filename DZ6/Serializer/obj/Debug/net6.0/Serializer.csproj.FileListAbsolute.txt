@@ -1,0 +1,15 @@
+C:\Users\maxma\source\repos\DZ6\Serializer\obj\Debug\net6.0\Serializer.csproj.AssemblyReference.cache
+C:\Users\maxma\source\repos\DZ6\Serializer\obj\Debug\net6.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxma\source\repos\DZ6\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfoInputs.cache
+C:\Users\maxma\source\repos\DZ6\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfo.cs
+C:\Users\maxma\source\repos\DZ6\Serializer\obj\Debug\net6.0\Serializer.csproj.CoreCompileInputs.cache
+C:\Users\maxma\source\repos\DZ6\Serializer\bin\Debug\net6.0\Serializer.exe
+C:\Users\maxma\source\repos\DZ6\Serializer\bin\Debug\net6.0\Serializer.deps.json
+C:\Users\maxma\source\repos\DZ6\Serializer\bin\Debug\net6.0\Serializer.runtimeconfig.json
+C:\Users\maxma\source\repos\DZ6\Serializer\bin\Debug\net6.0\Serializer.dll
+C:\Users\maxma\source\repos\DZ6\Serializer\bin\Debug\net6.0\Serializer.pdb
+C:\Users\maxma\source\repos\DZ6\Serializer\obj\Debug\net6.0\Serializer.dll
+C:\Users\maxma\source\repos\DZ6\Serializer\obj\Debug\net6.0\refint\Serializer.dll
+C:\Users\maxma\source\repos\DZ6\Serializer\obj\Debug\net6.0\Serializer.pdb
+C:\Users\maxma\source\repos\DZ6\Serializer\obj\Debug\net6.0\Serializer.genruntimeconfig.cache
+C:\Users\maxma\source\repos\DZ6\Serializer\obj\Debug\net6.0\ref\Serializer.dll
