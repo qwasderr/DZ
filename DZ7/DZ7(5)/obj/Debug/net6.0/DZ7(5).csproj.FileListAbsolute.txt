@@ -1,0 +1,15 @@
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\bin\Debug\net6.0\DZ7(5).exe
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\bin\Debug\net6.0\DZ7(5).deps.json
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\bin\Debug\net6.0\DZ7(5).runtimeconfig.json
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\bin\Debug\net6.0\DZ7(5).dll
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\bin\Debug\net6.0\DZ7(5).pdb
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\obj\Debug\net6.0\DZ7(5).csproj.AssemblyReference.cache
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\obj\Debug\net6.0\DZ7(5).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\obj\Debug\net6.0\DZ7(5).AssemblyInfoInputs.cache
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\obj\Debug\net6.0\DZ7(5).AssemblyInfo.cs
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\obj\Debug\net6.0\DZ7(5).csproj.CoreCompileInputs.cache
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\obj\Debug\net6.0\DZ7(5).dll
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\obj\Debug\net6.0\refint\DZ7(5).dll
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\obj\Debug\net6.0\DZ7(5).pdb
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\obj\Debug\net6.0\DZ7(5).genruntimeconfig.cache
+C:\Users\maxma\source\repos\DZ7\DZ7(5)\obj\Debug\net6.0\ref\DZ7(5).dll
